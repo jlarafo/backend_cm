@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 746e611b183c23bd02845b29e1a2c199535f1bb7 jlara <jlaramintic@gmail.com> 1730690645 -0500	commit (initial): first commit
+746e611b183c23bd02845b29e1a2c199535f1bb7 0000000000000000000000000000000000000000 jlara <jlaramintic@gmail.com> 1730690665 -0500	Branch: renamed refs/heads/main to refs/heads/main
+746e611b183c23bd02845b29e1a2c199535f1bb7 746e611b183c23bd02845b29e1a2c199535f1bb7 jlara <jlaramintic@gmail.com> 1730690665 -0500	Branch: renamed refs/heads/main to refs/heads/main
+746e611b183c23bd02845b29e1a2c199535f1bb7 b99dc6e255703af8daa21217a5f783a0b3739410 jlara <jlaramintic@gmail.com> 1730948242 -0500	commit: ajuste Endpoint evoluciones
+b99dc6e255703af8daa21217a5f783a0b3739410 006ee59968d92ad0dd6431160cea6f8d2a00e0c2 jlara <jlaramintic@gmail.com> 1730949679 -0500	commit: ajuste Endpoint evoluciones varias filas
+006ee59968d92ad0dd6431160cea6f8d2a00e0c2 8c67585d9fbcd43ec58a5f114063c1d8c429abaf jlara <jlaramintic@gmail.com> 1730951520 -0500	commit: ajuste Endpoint Historias filtro por documento
+8c67585d9fbcd43ec58a5f114063c1d8c429abaf 8be4b50433d73a285a50783ab29996d3d1fde7f5 jlara <jlaramintic@gmail.com> 1731288455 -0500	commit: ajuste Endpoint pacientes
+8be4b50433d73a285a50783ab29996d3d1fde7f5 2bcf38fe61e637012f730e1ab089e4680202a2d2 jlara <jlaramintic@gmail.com> 1731319311 -0500	commit: ajuste Endpoint pacientes-evoluciones
+2bcf38fe61e637012f730e1ab089e4680202a2d2 4112a1c3e8cf64df60026d9383f5b614f852d929 jlara <jlaramintic@gmail.com> 1731330004 -0500	commit: ajuste Endpoint pacientes ADD respiratorios
+4112a1c3e8cf64df60026d9383f5b614f852d929 7685a0fc7bd59914459cea2764f208186cf08b82 jlara <jlaramintic@gmail.com> 1731641048 -0500	commit: ajuste Endpoint Pacientes add fecha_registro
+7685a0fc7bd59914459cea2764f208186cf08b82 93c1a0396458d1ca0e6114fc31656cae8212ebb9 jlara <jlaramintic@gmail.com> 1732155335 -0500	commit: ajuste Endpoint subirOdontograma
+93c1a0396458d1ca0e6114fc31656cae8212ebb9 e8787d3a4676940d1bc6f1792a8a5b0108280ce9 jlara <jlaramintic@gmail.com> 1732155753 -0500	commit: ajuste Endpoint subirOdontograma 1
+e8787d3a4676940d1bc6f1792a8a5b0108280ce9 55775dce422277dae81f801430dd547872158135 jlara <jlaramintic@gmail.com> 1732329689 -0500	commit: Endpoint imgbd
+55775dce422277dae81f801430dd547872158135 c55d6cc0a6f782d94d9092cebd1920f4eee38b7c jlara <jlaramintic@gmail.com> 1732482584 -0500	commit: Endpoint imgbd firma
+c55d6cc0a6f782d94d9092cebd1920f4eee38b7c afc7c42e3fdc3aeeeb4b338072c4757e7fb8eabe jlara <jlaramintic@gmail.com> 1732591425 -0500	commit: Ajuste Endpoint evoluciones x documento
+afc7c42e3fdc3aeeeb4b338072c4757e7fb8eabe 04674a487c6ec12b8c17835422a6e3e5c22e9b35 jlara <jlaramintic@gmail.com> 1733072981 -0500	commit: Agregar end point reportes
+04674a487c6ec12b8c17835422a6e3e5c22e9b35 e74c0e9fddd89171b74726eefb96719d1a0c191a jlara <jlaramintic@gmail.com> 1733077509 -0500	commit: Ajuste end point reportes
+e74c0e9fddd89171b74726eefb96719d1a0c191a f827b8b45e5bc663528cc24c17660522fa92553b jlara <jlaramintic@gmail.com> 1734836046 -0500	commit: Ajustar endpoint adquirientes - agregar diagnosticos y procedimientos
